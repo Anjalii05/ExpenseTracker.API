@@ -1,0 +1,15 @@
+# Secrets
+appsettings.json
+appsettings.Development.json
+
+# Build files
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# IDE
+.idea/
